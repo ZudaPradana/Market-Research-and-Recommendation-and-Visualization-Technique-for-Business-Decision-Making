@@ -1,5 +1,5 @@
 # Market-Research-and-Recommendation-and-Visualization-Technique-for-Business-Decision-Making
-In this project, an analysis of the application of churn analysis will be carried out using a logistics regression model. The program language used is the Python language with supporting libraries in it
+In this project, an analysis of the application of churn analysis will be carried out using a logistics regression model. The program language used is the Python language with supporting libraries in it. file csv you can download with this [link](https://storage.googleapis.com/dqlab-dataset/data_retail.csv)
 <p>
 <b>About The Company</b> 
 <br>
@@ -21,3 +21,23 @@ Lakukan penelitian churn analysis terhadap produk di salah satu cabang kita. Har
     <li>Count_Transaction</li>
 </ul>
 </p>
+
+### Installing
+
+Library that I used:
+
+Pandas
+
+    pip install pandas
+
+Plotly
+
+    pip install matplotlib
+    
+Numpy
+
+    pip install numpy
+
+scikit-learn
+
+    pip install pip install -U scikit-learn
